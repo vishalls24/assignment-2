@@ -22,15 +22,14 @@ This repo is where I regularly push:
 
 ---
 
-## 📁 Projects & Tasks
+## 📁 Projects
 
-- HTML Practice
-- CSS Layout Tasks
-- Responsive Design Exercises
-- Microsoft Clone
-- Landing Pages
-- JavaScript Basics
-- More projects coming soon...
+### ScaleX UI
+
+Frontend UI project built while practicing responsive layouts and modern styling.
+
+- [Live Demo](https://scalexui.vercel.app/)
+- [Project Folder](https://github.com/vishalls24/cohort-assignments/tree/main/scalex-ui)
 
 ---
 
