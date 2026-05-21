@@ -31,6 +31,13 @@ Frontend UI project built while practicing responsive layouts and modern styling
 - [Live Demo](https://scalexui.vercel.app/)
 - [Project Folder](https://github.com/vishalls24/cohort-assignments/tree/main/scalex-ui)
 
+
+### INSECT Landing Page
+
+Modern landing page UI built while practicing layouts and responsive frontend design.
+
+- [Live Demo](https://ui-insect.vercel.app/)
+- [Project Folder](https://github.com/vishalls24/cohort-assignments/tree/main/insect)
 ---
 
 ## 🛠️ Tech Stack
